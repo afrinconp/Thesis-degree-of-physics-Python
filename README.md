@@ -7,10 +7,12 @@ The interface looks like
 
 Here are also some resultsabot the Elastic Cross Section:
 
-![FaceInterfaz](FaceInterfaz.png)
+## aplha particle - 58Ni
 ![Ni58Potential](Ni58Potential.png)
 ![GraficaDatos](GraficaDatos.png)
+## 12C - 90Zr
 ![Potential12Cand90Zr](Potential12Cand90Zr.png	)
 ![12CAnd90Zr](12CAnd90Zr.png)
+## alpha particle - 208Pb
 ![PotentialPb](PotentialPb.png)
 ![alpha208Pb](alpha208Pb.png)
