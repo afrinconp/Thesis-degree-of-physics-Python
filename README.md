@@ -1,6 +1,6 @@
 # Thesis-degree-of-physics-Python
 
-In this repository is exposed my bacheor degree physics thesis.!(Thesis.pdf)
+In this repository is exposed my bacheor degree physics thesis([FaceInterfaz](Thesis.pdf))
 
 The interface looks like 
 ![FaceInterfaz](FaceInterfaz.png)
